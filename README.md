@@ -1,12 +1,14 @@
 # DL4H_1433_Experiments_With_Sleep
 
-This repository contains the results of experiments with learning from sleep data undertaken by Team 1433s as part of the CS 598 Deep Learning for Healthcare course offered by Prof. Jimeng Sun at UIUC
+This repository contains the results of experiments with learning from sleep data undertaken by Team 1433s as part of the CS 598 Deep Learning for Healthcare course offered by Prof. Jimeng Sun at UIUC. To get a quick overview of our experiments check out our [presentation](https://www.youtube.com/watch?v=L5BjQNSeVqA) on Youtube!
 
 Included in this repostory are:
-1. A white paper describing our experiments - Automatic Sleep Stage Classification with CNN and Seq2Seq Models.pdf
-2. A presentation summarising the results of our experments - Automatic Sleep Stage Classification with CNN and Seq2Seq Models.pptx
-3. A python notebook documenting our data experiments - DL4H_1433_Experiments_With_Sleep.ipynb.ipynb
-4. A python executable file that you can download and run - DL4H_1433.py
+1. A white paper describing our experiments - [Automatic Sleep Stage Classification with CNN and Seq2Seq Models.pdf](https://github.com/atbasu/DL4H_1433_Experiments_With_Sleep/blob/main/Automatic%20Sleep%20Stage%20Classification%20with%20CNN%20and%20Seq2Seq%20Models.pdf)
+2. A presentation summarising the results of our experments - [Automatic Sleep Stage Classification with CNN and Seq2Seq Models.pptx](https://github.com/atbasu/DL4H_1433_Experiments_With_Sleep/blob/main/Automatic%20Sleep%20Stage%20Classification%20with%20CNN%20and%20Seq2Seq%20Models.pptx)
+3. A python notebook documenting our data experiments - [DL4H_1433_Experiments_With_Sleep.ipynb.ipynb]()
+4. A python executable file that you can download and run - [DL4H_1433.py]()
+
+
 
 ## How to run the python notebook using Google Collab
 
