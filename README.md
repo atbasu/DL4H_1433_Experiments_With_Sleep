@@ -12,7 +12,7 @@ Included in this repostory are:
 
 ## How to run the python notebook using Google Collab
 
-1. Download a compressed zip file with all the [Physionet Sleep-EDF datasets](https://physionet.org/physiobank/database/sleep-edfx/) published between 2013 and 2018 as that will be used for this experimental notebook.
+1. Download a compressed zip file with all the [Physionet Sleep-EDF datasets](https://drive.google.com/file/d/1tz2pruUfyeyBpmTDYgoqo6s-8syAhCvV/view?usp=sharing) published between 2013 and 2018 as that will be used for this experimental notebook. Note that this data is a processed version of all the raw data available [here](https://physionet.org/physiobank/database/sleep-edfx/).
 2. Store it in a folder in your google drive
 3. Download the python notebook and also store it in your Google Drive location and then open with Google Collab
 4. Execute the two code cells in step 1 sequentially to allow Google Collab access to the data you downloaded and stored in step 2
